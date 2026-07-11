@@ -1421,10 +1421,10 @@
             <!-- ===== TENTANG KAMI ===== -->
             <section id="tentang">
                 <div style="text-align:center;margin-bottom:8px;">
-                    <span class="section-label">TENTANG KAMI</span>
+                    <span class="section-label">📖 TENTANG KAMI</span>
                 </div>
                 <h2 class="section-title">
-                    <i class=""></i> Apa itu MEDIKOM? <i class=""></i>
+                    <i class="fas fa-info-circle"></i> Apa itu MEDIKOM? <i class="fas fa-info-circle"></i>
                 </h2>
                 <div style="max-width:800px;margin:0 auto;text-align:center;">
                     <p style="font-size:clamp(0.88rem,1.6vw,1.05rem);color:#d4c4f0;line-height:1.8;padding:0 8px;">
@@ -1438,10 +1438,10 @@
             <!-- ===== PROFIL ===== -->
             <section id="profil">
                 <div style="text-align:center;margin-bottom:8px;">
-                    <span class="section-label">PROFIL</span>
+                    <span class="section-label">👤 PROFIL</span>
                 </div>
                 <h2 class="section-title">
-                    <i class=""></i> Pembina & Ketua <i class=""></i>
+                    <i class="fas fa-user"></i> Pembina & Ketua <i class="fas fa-user"></i>
                 </h2>
                 <div class="row g-3" style="margin-top:8px;">
                     <div class="col-md-6">
@@ -1456,10 +1456,10 @@
                     </div>
                     <div class="col-md-6">
                         <div class="profile-card">
-                            <img src="KETUA MEDIKOM SMAN 2 JAKARTA.JPG" alt="Ketua MEDIKOM" loading="lazy" />
+                            <img src="KETUA MEDIKOM SMAN 2 JAKARTA.jpg" alt="Ketua MEDIKOM" loading="lazy" />
                             <div class="profile-info">
                                 <span class="role-badge ketua">KETUA</span>
-                                <h4>Calystha Aurellia</h4>
+                                <h4>Calysta Aurellia</h4>
                                 <p>Berperan aktif dalam mendukung pengelolaan Sub-Organisasi, meningkatkan kualitas program, serta mendorong prestasi dan karakter siswa.</p>
                             </div>
                         </div>
@@ -1470,10 +1470,10 @@
             <!-- ===== FASILITAS ===== -->
             <section id="fasilitas">
                 <div style="text-align:center;margin-bottom:8px;">
-                    <span class="section-label">FASILITAS</span>
+                    <span class="section-label">🛠️ FASILITAS</span>
                 </div>
                 <h2 class="section-title">
-                    <i class=""></i> Fasilitas Dan Merchandise <i class=""></i>
+                    <i class="fas fa-tools"></i> Fasilitas Dan Merchandise <i class="fas fa-tools"></i>
                 </h2>
                 <div class="collage-grid" id="divisiGrid">
                     <!-- Diisi oleh JS -->
@@ -1483,10 +1483,10 @@
             <!-- ===== DIVISI MEDIKOM ===== -->
             <section id="divisi">
                 <div style="text-align:center;margin-bottom:8px;">
-                    <span class="section-label">DIVISI KAMI</span>
+                    <span class="section-label">📂 DIVISI KAMI</span>
                 </div>
                 <h2 class="section-title">
-                    <i class=""></i> 5 Divisi Unggulan MEDIKOM <i class=""></i>
+                    <i class="fas fa-users"></i> 5 Divisi Unggulan MEDIKOM <i class="fas fa-users"></i>
                 </h2>
                 <div class="collage-grid">
                     <div class="collage-item" style="background: linear-gradient(135deg, rgba(255,231,74,0.2), rgba(255,231,74,0.06));">
@@ -1530,10 +1530,10 @@
             <!-- ===== PRESTASI ===== -->
             <section id="prestasi">
                 <div style="text-align:center;margin-bottom:8px;">
-                    <span class="section-label">PRESTASI</span>
+                    <span class="section-label">🏆 PRESTASI</span>
                 </div>
                 <h2 class="section-title">
-                    <i class=""></i> Prestasi Terbaru <i class=""></i>
+                    <i class="fas fa-trophy"></i> Prestasi Terbaru <i class="fas fa-trophy"></i>
                 </h2>
                 <div class="prestasi-grid">
                     <div class="prestasi-item">
@@ -1554,10 +1554,10 @@
             <!-- ===== GALERI (CAROUSEL) ===== -->
             <section id="galeri">
                 <div style="text-align:center;margin-bottom:8px;">
-                    <span class="section-label">GALERI</span>
+                    <span class="section-label">📸 GALERI</span>
                 </div>
                 <h2 class="section-title">
-                    <i class=""></i> Foto Kegiatan Kami <i class=""></i>
+                    <i class="fas fa-images"></i> Foto Kegiatan Kami <i class="fas fa-images"></i>
                 </h2>
                 <div class="row justify-content-center">
                     <div class="col-lg-8">
@@ -1590,10 +1590,10 @@
             <!-- ===== VIDEO ===== -->
             <section id="video">
                 <div style="text-align:center;margin-bottom:8px;">
-                    <span class="section-label">VIDEO</span>
+                    <span class="section-label">🎬 VIDEO</span>
                 </div>
                 <h2 class="section-title">
-                    <i class=""></i> Video Kami <i class=""></i>
+                    <i class="fas fa-play-circle"></i> Video Kami <i class="fas fa-play-circle"></i>
                 </h2>
                 <div class="row justify-content-center g-3">
                     <div class="col-md-6">
@@ -1631,14 +1631,17 @@
                             Jika kamu ingin mendapatkan pengalaman, keseruan, pengetahuan dan pertemanan yang luas. "JANGAN LUPA DAFTAR MEDIKOM YAWWW"
                         </p>
                         <p style="margin-top:14px;font-size:0.72rem;color:#a78bcb;">
-                            <i class="fas fa-info-circle"></i>Kamu akan diberikan Google Forms · Pastikan data diisi dengan lengkap dan benar.
+                            <i class="fas fa-info-circle"></i> Kamu akan diberikan Google Forms · Pastikan data diisi dengan lengkap dan benar.
                         </p>
                         <h2 style="font-size:clamp(0.7rem,1.8vw,1rem);">JANGAN LUPA GABUNG MEDIKOM YAAA!</h2>
+                    </div>
+                </div>
+            </section>
 
             <!-- ===== KONTAK ===== -->
             <section id="kontak">
                 <div style="text-align:center;margin-bottom:8px;">
-                    <span class="section-label">KONTAK</span>
+                    <span class="section-label">📞 KONTAK</span>
                 </div>
                 <h2 class="section-title">
                     <i class="fas fa-phone"></i> Hubungi Kami <i class="fas fa-phone"></i>
@@ -1918,3 +1921,5 @@
             console.log('🧱 MEDIKOM SMAN 2 JAKARTA · Mobile-optimized Retro Edition siap!');
         })();
     </script>
+</body>
+</html>
