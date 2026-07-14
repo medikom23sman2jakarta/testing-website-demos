@@ -1634,7 +1634,7 @@
                         <p>
                             Ingin menjadi bagian dari Sub-Organisasi Media & Teknologi Yang Merupakan Sub-Organisasi terkeren di SMAN 2 Jakarta?<br />
                             <strong style="color:#00ff88;">Daftarkan dirimu sekarang juga!</strong><br />
-                            Jika kamu ingin mendapatkan pengalaman, keseruan, pengetahuan dan pertemanan yang luas. "JANGAN LUPA DAFTAR MEDIKOM YAWWW"
+                            Jika kamu ingin mendapatkan pengalaman, keseruan, pengetahuan dan pertemanan yang luas. -JANGAN LUPA DAFTAR MEDIKOM-
                         </p>
                         <p style="margin-top:14px;font-size:0.72rem;color:#a78bcb;">
                             <i class="fas fa-info-circle"></i> Kamu akan diberikan Google Forms · Pastikan data diisi dengan lengkap dan benar.
